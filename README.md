@@ -59,7 +59,7 @@ Include your HTML code here
     </body>
 </html>
 ```
-### home.html
+### HOME.HTML
 ```
 <!DOCTYPE html>
 <html>
@@ -68,115 +68,65 @@ Include your HTML code here
         HOME
     </title>
 </head>
-<body bgcolor='violet'>
+<body >
 <h1 align="center">
-    <font color="blue" face="cursive" size='16'>
+    <font color="blue" face="cursive">
         MY HOME
     </font>
 </h1>
 <p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>This is my home where I live happy with my family.<br></LI>     
-            <LI>My mother and Father take cares of me and I have fun with my siblings and my pets.<br></LI>
-            <LI>My pets are the loved ones because they keep me always engaging.<br></LI>
-            <LI>When I feel stress, I used to visit my farms around my house and the nature and its beauty makes me to feel better.<br></LI>
-        </OL>
+    <font color="black" face="Comic Sans MS" size="5">
+       
+            This is my home where I live happy with my family.<br>  
+            My mother and Father take cares of me and I have fun with my siblings and my pets.<br>
+            My pets are the loved ones because they keep me always engaging.<br>
+            When I feel stress, I used to visit my farms around my house and the nature and its beauty makes me to feel better.<br>
 
 
     </font>
     <font color ="red" face = "cursive" size="16" > 
     "HOME IS WHERE OUR STORY BEGINS"
     </font>
+
+
+
+
 </p>
+
+
 </body>
+
+
 </html>
 ```
-### nursery.html
+### DJ.html
 ```
 <!DOCTYPE html>
 <html>
 <head>
     <title>
-        NURSERY
+        DJ
     </title>
 </head>
-<body bgcolor='lightgreen'>
+<body bgcolor="yellow">
 <h1 align="center">
     <font color="blue" face="cursive" size='16'>
-        NURSERY
+        TEMPLE
     </font>
 </h1>
 <p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>This is a place where we can see lots of plants and trees.<br></LI>     
-            <LI>It is almost a mini forest.<br></LI>
-            <LI>Many little and cute birds,animals and insects are found here.<br></LI>
-            <LI>I used to spend time here as it's a great feeling to enjoy the nature alongby watering the plants.<br></LI>
-        </OL>
-
-
+    <font color="black" face="Comic Sans MS" size="5">
+    
+            I come here to enjoy my free time .<br>    
+            It's a very famous place, even the streets the dj will be conducted at every sunday <br>
+            Since my childhood, I like to dance in that dj party.<br>
+            It feels good whenever I am participating in that event.<br>
+        
 </p>
 </body>
 </html>
 ```
-### school.html
-```
-<!DOCTYPE html>
-<html>
-<head>
-    <title>
-        SCHOOL
-    </title>
-</head>
-<body bgcolor="orange">
-<h1 align="center">
-    <font color="blue" face="cursive" size='16'>
-        MY SCHOOL
-    </font>
-</h1>
-<p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>This is a place where I completed my high school grade.<br></LI>     
-            <LI>I got many new friends and even friendly staffs.<br></LI>
-            <LI>I got too learn many new things and got many experiences about life and so on.<br></LI>
-            <LI>My passion about chess started from here.<br></LI>
-        </OL>
-
-</p>
-</body>
-</html>
-```
-### shop.html
-```
-<!DOCTYPE html>
-<html>
-<head>
-    <title>
-        SHOP
-    </title>
-</head>
-<body bgcolor="pink">
-<h1 align="center">
-    <font color="blue" face="cursive" size='16'>
-        SHOP
-    </font>
-</h1>
-<p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>This is the place where I eat breakfast often.<br></LI>     
-            <LI>Every evening I get here to enjoy the lovely tea given by the shopkeeper.<br></LI>
-            <LI>I have great conversation with the shopkeeper about the life and he motivates me a lot to focus on my passion.<br></LI>
-            <LI>I play with their daughter as she is very very cute.<br></LI>
-        </OL>
-</p>
-</body>
-</html>
-```
-### temple.html
+### TEMPLE.HTML
 ```
 <!DOCTYPE html>
 <html>
@@ -192,12 +142,67 @@ Include your HTML code here
     </font>
 </h1>
 <p align="center">
-    <font color="black" face="Comic Sans MS" size="24">
-        <OL  TYPE="1" START="1">
-            <LI>I come here to worship the God.<br></LI>     
-            <LI>It's a very famous place, even the streets of the temple would be busy on every Sundays.<br></LI>
-            <LI>Since my childhood, I play a lot here with my village friends.<br></LI>
-            <LI>It feels good whenever I go and worship in the temple.<br></LI>
+    <font color="black" face="Comic Sans MS" size="5">
+       
+            I come here to worship the God.<br>   
+            It's a very famous place, even the streets of the temple would be busy on every Sundays.<br>
+            Since my childhood, I play a lot here with my village friends.<br>
+            It feels good whenever I go and worship in the temple.<br>
+        
+</p>
+</body>
+</html>
+```
+### MILK.HTML
+```<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        MILK shop
+    </title>
+</head>
+<body bgcolor='lightgreen'>
+<h1 align="center">
+    <font color="blue" face="cursive" size='16'>
+        MILK shop
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="5">
+        
+            This is a place where we can see lots of plants and trees.<br>   
+            It is almost a mini forest.<br>
+            Many little and cute birds,animals and insects are found here.<br>
+            I used to spend time here as it's a great feeling to enjoy the nature alongby watering the plants.<br>
+        </OL>
+
+
+</p>
+</body>
+</html>
+```
+### SHOP.HTML
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        SHOP
+    </title>
+</head>
+<body bgcolor="pink">
+<h1 align="center">
+    <font color="blue" face="cursive" size='16'>
+        SHOP
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size=""5>
+        
+            This is the place where I eat breakfast often.<br>   
+            Every evening I get here to enjoy the lovely tea given by the shopkeeper.<br>
+            I have great conversation with the shopkeeper about the life and he motivates me a lot to focus on my passion.<br>
+            I play with their daughter as she is very very cute.<br>
         </OL>
 </p>
 </body>
@@ -205,6 +210,22 @@ Include your HTML code here
 ```
 
 ### Output:
-![myapp](https://github.com/Rajeshanbu/places-around-me/assets/118924713/3794fe9e-e29f-4a9d-b5cd-c081b4314287)
+### MAP
+![Screenshot 2023-06-06 145017](https://github.com/Rajeshanbu/places-around-me/assets/118924713/fd487e18-cffd-4d7f-9ab6-714437b21c0e)
+
+### HOME
+![HOME](https://github.com/Rajeshanbu/places-around-me/assets/118924713/69922e35-f64e-41dc-89b8-a6a3fc72ee27)
+### TEMPLE
+![Screenshot (39)](https://github.com/Rajeshanbu/places-around-me/assets/118924713/25b97306-1d61-48f4-83e7-45a1cf8fdc6b)
+### MILK SHOP
+![Screenshot 2023-06-06 143653](https://github.com/Rajeshanbu/places-around-me/assets/118924713/847b2417-b0d8-4928-83f0-fdb02f08b7bf)
+### SHOP
+![Screenshot (41)](https://github.com/Rajeshanbu/places-around-me/assets/118924713/a0d8a56c-c9a1-4d3a-bcfe-29816e28289f)
+
+
+
+
+
+
 ## Result:
 Thus the locations are located and their informations are linked using HTML code.
